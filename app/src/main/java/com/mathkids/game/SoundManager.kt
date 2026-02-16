@@ -40,7 +40,7 @@ object SoundManager {
             toneGenerator?.startTone(ToneGenerator.TONE_PROP_ACK, 100)
             android.os.Handler(android.os.Looper.getMainLooper()).postDelayed({
                 try {
-                    toneGenerator?.startTone(ToneGenerator.TONE_PROP_ACK2, 300)
+                    toneGenerator?.startTone(ToneGenerator.TONE_PROP_BEEP2, 300)
                 } catch (_: Exception) {}
             }, 150)
         } catch (_: Exception) {}
