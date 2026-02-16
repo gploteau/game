@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MathKids</string>
+    <string name="menu_title">🎓 MathKids</string>
+    <string name="menu_subtitle">Apprends les maths en t\'amusant !</string>
+    <string name="game_counting">🔢 Compter</string>
+    <string name="game_addition">➕ Addition</string>
+    <string name="game_subtraction">➖ Soustraction</string>
+    <string name="game_shapes">🔷 Formes</string>
+    <string name="counting_desc">Apprends à compter de 1 à 10</string>
+    <string name="addition_desc">Additionne des petits nombres</string>
+    <string name="subtraction_desc">Soustrais des petits nombres</string>
+    <string name="shapes_desc">Reconnais les formes</string>
+    <string name="score_label">Score: %d</string>
+    <string name="bravo">Bravo ! 🌟</string>
+    <string name="try_again">Essaie encore ! 💪</string>
+    <string name="question_count">Combien ?</string>
+    <string name="question_result">Quel est le résultat ?</string>
+    <string name="question_shape">Quelle est cette forme ?</string>
+    <string name="next">Suivant ➡️</string>
+    <string name="back_to_menu">🏠 Menu</string>
+    <string name="game_over_title">Félicitations ! 🎉</string>
+    <string name="game_over_message">Tu as obtenu %d sur %d !</string>
+    <string name="play_again">Rejouer</string>
+    <string name="star">⭐</string>
+</resources>
